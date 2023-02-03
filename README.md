@@ -1,1 +1,1 @@
-# mushroom-edibility
+# Mushroom Classification based on Edibility (Edible/Poisonous)
